@@ -1,5 +1,18 @@
 # ClubGPT
-ClubGPT - coding companion, Think Tank from GPTs (ChatGPT prompt)
+
+Family of AI Assitant Agent groups working in a simulated team. Think Tank from GPTs (ChatGPT GPT prompt), a Software 2.0 Application.
+
+Members of the family:
+- ClubGPT DreamTeam - a general approch, when the AI select team mmbers and tools according to the task
+- ClubGPT DevTeam - coding cmpanion
+
+# ClubGPT DreamTeam
+
+To test the application (GPT), visit: [ClubGPT DreamTeam](https://chat.openai.com/g/g-DTRmHisSM-clubgpt-dream-team) (ChatGPT Plus subscription required)
+
+# ClubGPT DevTeam
+
+To test the application (GPT), visit: [ClubGPT DevTeam](https://chat.openai.com/g/g-S57EWTmJh-clubgpt-coding-team) (ChatGPT Plus subscription required)
 
 ## Introduction
 Welcome to the ClubGPT Coding Team Project repository!
@@ -36,8 +49,7 @@ Interactions:
 - t: show task list, update progress if needed
 - r: run code and test
 
-## Test this Software 2.0 Application
-To test the application (GPT), visit: [ClubGPT](https://chat.openai.com/g/g-S57EWTmJh-clubgpt-coding-team) (ChatGPT Plus subscription required)
+# General
 
 ## Contribute
 Feel free to contribute to this project by following the development, testing or by giving feedback.
@@ -48,7 +60,7 @@ Licencing: [Attribution-NonCommercial-ShareAlike 4.0 International](https://crea
 ## More info
 [ClubGPT.vip](https://clubgpt.vip/)
 
-## Inspirations:
+## My Inspirations
 @yoheinakajima
 @NickADobos
 @karpathy
