@@ -1,5 +1,6 @@
 # ClubGPT - Multi-agent prompts
 
+```
           =*##*=              
         -@@@@@@@@-            
         @@@@@@@@@@            
@@ -13,7 +14,7 @@
           #@@@@%                  `"bmmmd'  .JMML. `Mbod"YML.P^YbmdP'    `"bmmmdPY .JMML.        .JMML.    
          *@@@@@@#             
         =#**++***=            
-
+```
 
 Club of assistants, who work in virtual, simulated teams with powerful tools.
 The goal of these agents and tools is to effectively leverage LLMs for everyday tasks, especially those related to coding and IT.
