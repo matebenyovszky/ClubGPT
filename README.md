@@ -23,9 +23,8 @@ The goal of these agents and tools is to effectively leverage LLMs for everyday 
 - ♣️ ClubGPT ♣️ - DreamTeam - a general approach, where the AI selects team members and tools according to the task
 
 ## Workshop and tools for the agents (other repos)
-- ♣️ ClubGPT ♣️ - CommandProxy - run commands and code on a remote computer
-- ♣️ ClubGPT ♣️ - Sandbox - run code in a sandbox
-- [♣️ ClubGPT ♣️ - Sandbox-ts](https://github.com/matebenyovszky/ClubGPT-Sandbox-ts) - run code in a sandbox (in Typescript, I possibly will continue to work on the Python version)
+- [♣️ ClubGPT ♣️ - Healing Agent](https://github.com/matebenyovszky/healing-agent) - Self-healing software concept
+- [♣️ ClubGPT ♣️ - CommandProxy](https://github.com/matebenyovszky/ClubGPT-CommandProxy) - run commands and code on a remote computer
 
 # In this repo
 
